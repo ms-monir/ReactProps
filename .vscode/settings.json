@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": false,
+    "cSpell.autoFormatConfigFile": false,
+    "[json]": {
+        "editor.defaultFormatter": null
+    },
+    "editor.defaultFormatter": "",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
